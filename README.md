@@ -10,6 +10,9 @@
 [基础课程(华为开发者课堂基础课程)](https://developer.huawei.com/consumer/cn/training/result?type1=101718934267126043&orderBy=1)  
 
 
+[学习笔记](https://ai.xmind.cn/JAyQcY8j)
+
+
 # 多线程
 
 
