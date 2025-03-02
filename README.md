@@ -33,8 +33,11 @@
 
 ## Android性能优化
 性能：卡顿、丢帧、黑花闪、白屏、无响应等
+
 [Android开发者官网(学习Android的模块架构和相关性能优化)](https://developer.android.google.cn/get-started?hl=zh-cn) 
+
 [Android性能优化：这是一份全面 & 详细的性能优化指南（含内存优化、布局优化等）](https://cloud.tencent.com/developer/article/1963763)
+
 [Android 性能优化必知必会](https://androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)
 
 ## IOS性能优化
