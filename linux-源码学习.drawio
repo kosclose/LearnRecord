@@ -16,6 +16,27 @@
         <mxCell id="gU4bwdlZEFnRgDGg_MU_-4" value="kernel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="320" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gU4bwdlZEFnRgDGg_MU_-5" value="lib" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gU4bwdlZEFnRgDGg_MU_-6" value="文件系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="168" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gU4bwdlZEFnRgDGg_MU_-7" value="内存管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gU4bwdlZEFnRgDGg_MU_-8" value="内存管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gU4bwdlZEFnRgDGg_MU_-9" value="内存管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gU4bwdlZEFnRgDGg_MU_-10" value="内存管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gU4bwdlZEFnRgDGg_MU_-11" value="0.11v" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="270" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
