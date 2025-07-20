@@ -2,6 +2,7 @@
 
 ## 基础知识
 1、手机界面是怎么显示出东西来的？vsync原理
+[“终于懂了” 系列：Android屏幕刷新机制—VSync、Choreographer 全面理解！](https://cloud.tencent.com/developer/article/1685247)
 
 2、手机应用是怎么开发的？系统是如何支持这些应用的？有哪些技术框架？
 
